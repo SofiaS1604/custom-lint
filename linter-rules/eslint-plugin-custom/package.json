@@ -1,5 +1,5 @@
 {
-  "name": "eslint-plugin-wirth",
+  "name": "eslint-plugin-custom",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
